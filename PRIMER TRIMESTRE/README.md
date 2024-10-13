@@ -1,7 +1,0 @@
-# INDICE DE TAREAS - PRIMER TRIMESTRE
-
-* [TAREA 0.0](Tarea%200.0/README.md)
-* [TAREA 1.1](Tarea%201.1/README.md)
-* [TAREA 1.2](Tarea%201.2/README.md)
-* [TAREA 1.3](Tarea%201.3/README.md)
-* [TAREA 1.5](Tarea%201.5/README.md)
